@@ -1,0 +1,47 @@
+.main{
+    border: 2px solid black;
+    width: 350px;
+    height: 350px;
+    margin-top: 150px;
+    background-color:lightslategray;
+    border-radius: 10%;
+    margin-left: 600px;
+}
+
+button{
+    background-color:green;
+    font-size: 15px;
+    border-radius: 0%;
+    width: 300px;
+}
+body{
+    background: linear-gradient(to right, #8360c3, #2ebf91); 
+}
+a{
+    color:darkblue;
+}
+h1{
+    text-align: center;
+}
+.l1{
+  margin-left: 50px;
+  align-content: center;
+}
+.l2{
+    margin-left: 47px;
+    align-content: center;
+}
+.p1{
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.hr1{
+    margin-left: 120px;
+}
+.hr2{
+    margin-left: 110px;
+}
+.hr3{
+    margin-left: 150px;
+    
+}
